@@ -1,1 +1,1 @@
-# Calculator
+- `calculator.py`: Foydalanuvchidan son va amal olib, hisoblab beruvchi mini kalkulyator
